@@ -12,6 +12,6 @@ Completed user stories in base project:
 
 Walkthrough of base user story:
 
-![Video Walkthrough]()
+![Video Walkthrough](InstagramPhotoViewerBase.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
