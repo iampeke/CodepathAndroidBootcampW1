@@ -1,7 +1,7 @@
 CodepathAndroidBootcampW1
 =========================
 
-This is an Android application for displaying popular Instagram photos using the Twitter API, the android-async-http library and the Picasso image library.
+This is an Android application for displaying **Popular Instagram Photos** using the Twitter API, the android-async-http library and the Picasso image library.
 
 Time Spent: 2 hours on base (InstagramViewerBase).
 
