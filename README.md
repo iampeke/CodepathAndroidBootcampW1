@@ -14,4 +14,17 @@ Walkthrough of base user story (InstagramViewerBase):
 
 ![Video Walkthrough](instagramPhotoViewerBase.gif)
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+Second stage user stories (InstagramViewerPreTwoComments):
+
+[x] User can scroll through current popular photos from Instagram
+[x] For each photo displayed, user can see the following details:
+    - Username, circular profile picture and location of the post (if it is available) above the popular photo
+    - The popular photo from Instagram
+    - An instagram blue heart followed by the like count for that popular photo
+    - An instagram blue colored username (of the caption poster, same person who posted the image) followed on the same line by the text of the caption
+    
+Walkthrough of the second stage user story (InstagramViewerPreTwoComments):
+
+![Video Walkthrough](instagramPhotoViewerStage2.gif)
+
+GIFs created with [LiceCap](http://www.cockos.com/licecap/).
