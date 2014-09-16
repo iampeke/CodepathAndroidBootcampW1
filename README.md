@@ -7,8 +7,8 @@ Time Spent: 2 hours on base (InstagramViewerBase).
 
 Completed user stories in base project (InstagramViewerBase):
 
-[x] User can scroll through current popular photos from Instagram
-[x] For each photo displayed, user can see the following details: Graphic, Caption, Username
+- [x] User can scroll through current popular photos from Instagram
+- [x] For each photo displayed, user can see the following details: Graphic, Caption, Username
 
 Walkthrough of base user story (InstagramViewerBase):
 
@@ -16,8 +16,8 @@ Walkthrough of base user story (InstagramViewerBase):
 
 Second stage user stories (InstagramViewerPreTwoComments):
 
-[x] User can scroll through current popular photos from Instagram
-[x] For each photo displayed, user can see the following details:
+- [x] User can scroll through current popular photos from Instagram
+- [x] For each photo displayed, user can see the following details:
     - Username, circular profile picture and location of the post (if it is available) above the popular photo
     - The popular photo from Instagram
     - An instagram blue heart followed by the like count for that popular photo
