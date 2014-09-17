@@ -27,4 +27,18 @@ Walkthrough of the second stage user story (InstagramViewerPreTwoComments):
 
 ![Video Walkthrough](instagramPhotoViewerStage2.gif)
 
+**Third stage user stories (InstagramViewerWithTwoComments):**
+
+- [x] User can scroll through current popular photos from Instagram
+- [x] For each photo displayed, user can see the following details:
+        - Username, circular profile picture, time since the post and the location of the post (if it is available) above the popular photo
+        - The popular photo from Instagram
+        - An instagram blue heart followed by the like count for that particular photo
+        - An instagram blue colored username (of the caption poster, same person who posted the image) followed on the same line by the text of the caption
+        - The two most recent comments if they exist (comment logo, commenter's username, and comment text)
+
+Walkthrough of the third stage user story (InstagramViewerWithTwoComments):
+
+![Video Walkthrough](instagramPhotoViewerStage3.gif)
+
 GIFs created with [LiceCap](http://www.cockos.com/licecap/).
